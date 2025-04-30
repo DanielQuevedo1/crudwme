@@ -10,8 +10,6 @@ Este é um sistema simples de cadastro de clientes desenvolvido em C# utilizando
 - Windows Forms
 - SQL Server
 - .NET Framework
-- ADO.NET
-
 ---
 
 ## 📦 Funcionalidades
