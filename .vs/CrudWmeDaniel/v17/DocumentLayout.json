@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|c:\\users\\daniel\\source\\repos\\crudwmedaniel\\crudwmedaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|solutionrelative:crudwmedaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|c:\\users\\daniel\\source\\repos\\crudwmedaniel\\crudwmedaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|solutionrelative:crudwmedaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|c:\\users\\daniel\\source\\repos\\crudwmedaniel\\crudwmedaniel\\cadusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|solutionrelative:crudwmedaniel\\cadusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|c:\\users\\daniel\\source\\repos\\crudwmedaniel\\crudwmedaniel\\cadusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566DA29-C3EA-4E82-BB3F-C822E7E3439D}|CrudWmeDaniel\\CrudWmeDaniel.csproj|solutionrelative:crudwmedaniel\\cadusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cadusuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\cadusuarios.cs",
+              "RelativeDocumentMoniker": "CrudWmeDaniel\\cadusuarios.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\cadusuarios.cs",
+              "RelativeToolTip": "CrudWmeDaniel\\cadusuarios.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAuwAMBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:46:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cadusuarios.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\cadusuarios.cs",
+              "RelativeDocumentMoniker": "CrudWmeDaniel\\cadusuarios.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\cadusuarios.cs [Projeto]",
+              "RelativeToolTip": "CrudWmeDaniel\\cadusuarios.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:30:36.027Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudWmeDaniel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\Form1.cs",
+              "RelativeToolTip": "CrudWmeDaniel\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:27:58.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudWmeDaniel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\CrudWmeDaniel\\CrudWmeDaniel\\Form1.cs [Projeto]",
+              "RelativeToolTip": "CrudWmeDaniel\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:26:55.282Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
